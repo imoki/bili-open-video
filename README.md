@@ -1,12 +1,6 @@
 <div align="center">
     <img src="https://socialify.git.ci/imoki/bili-open-video/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark">
 
-<p align="center">
-    <a href="https://github.com/imoki/bili-open-video/stargazers"><img src="https://img.shields.io/github/stars/imoki/bili-open-video?style=popout-square" alt="GitHub stars"></a>
-    <a href="https://github.com/imoki/bili-open-video/network/members"><img src="https://img.shields.io/github/forks/imoki/bili-open-video?style=popout-square" alt="GitHub forks"></a>
-    <a href="https://github.com/imoki/bili-open-video/issues"><img src="https://img.shields.io/github/issues/imoki/bili-open-video?style=popout-square" alt="GitHub issues"></a>
-</p>
--->
 <div id="shield">
 
 [![][github-stars-shield]][github-stars-link]
